@@ -1,2 +1,16 @@
+# macOS
+.DS_Store
+
+# Python bytecode, test, type-checking, and lint caches
 __pycache__/
 *.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local virtual environments and packaging output
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
