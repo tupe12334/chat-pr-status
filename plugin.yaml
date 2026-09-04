@@ -1,0 +1,4 @@
+name: chat-pr-status
+version: 1.0.0
+description: Show GitHub pull-request state for PRs mentioned in the active Hermes chat.
+author: Ofek
